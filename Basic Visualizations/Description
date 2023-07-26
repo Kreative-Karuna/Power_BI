@@ -1,1 +1,13 @@
 Power BI is a unified, scalable platform for self-service and enterprise business intelligence (BI)
+
+
+Dashboard with basic set of visualizations 
+Dataset to be used : Transport.xlsx
+
+Following Visualizations are created :  
+1. Revenue Vs Miles by Shipping State 
+2. Revenue Vs Miles by Shipping City 
+3. Total Trips Vs Trips
+4. % of Trips by Shipping State 
+5. Revenue Miles vs Total Miles
+
