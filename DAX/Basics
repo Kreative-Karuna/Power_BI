@@ -1,0 +1,17 @@
+
+Case 1. Using DAX formulas, create a new column ‘Net_Units’ as the difference of ‘Units’ and ‘Cancelled_Units’ in the sale table
+
+Case 2. Using DAX formulas, rename ‘City’ to ‘City_Old’, create new column ‘City’ with only the city name i.e., removing the country part; 
+        from the two files ‘‘Mod3_Raw_CityTier_v0 1 ‘and ‘PinCode-Geo’.
+Datset : Mod3_Raw_CityTier_v0.1
+
+Case 3. Create a field called ‘OrderDayOfWeek’ which should contain the day of the week, e.g., ‘Monday’
+
+Case 4. To be able to look at weekly trends, using DAX formulas, create a field called ‘OrderWeekStart’ which contains the date for the start of the week of the sale.
+        Note that your week should be starting from Monday - Format this field to display ‘Nov 06’ for November 6th 5.
+        Update the relationships to ensure all tables are connected as expected
+
+Case 5. Tax Slab Calculation: All the products sold (profit column) from the store are taxed with a standard tax slab of 2%. 
+        Your manager wants you to create a tax slab column so that it can be used for visualization. 
+
+Case 6. Performance of Query: The manager also wants to check on the performance of the power query. So, he is asking to generate the metric table as well.
