@@ -1,0 +1,5 @@
+For a retail firm, build dynamic, intelligent, and helpful visualizations and views, design a high-level, interactive Weekly Review dashboard. 
+Sales data has been given, all the clean-up and enrichment tasks are to be performed.
+The final data model should show all relationships, cleaning, and apprpriate new fields are to be computed, which would be the input for this exercise.
+
+Note: The management should also be able to slice by different time intervals, and City Tiers. 
